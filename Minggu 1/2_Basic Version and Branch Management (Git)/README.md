@@ -1,5 +1,8 @@
 # 2_Basic Version and Branch Management (Git)
 
+# LINK GITHUB SOAL EKSPLORASI 
+https://github.com/octavianur/tugas2
+
 1. GIT merupakan VCM digunakan developer untuk mengembangkan software bersama - sama yang terdistribusi. GIt untuk melihat setiap perubahan file. 
 
 2. The Staging Area :
