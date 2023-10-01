@@ -1,5 +1,6 @@
-import 'package:assets_dialog_bottomsheet_navigation/view/galeri.dart';
-import 'package:assets_dialog_bottomsheet_navigation/view/photo.dart';
+import 'package:assets_dialog_bottomsheet_navigation/screen/contact/contactScreen.dart';
+import 'package:assets_dialog_bottomsheet_navigation/screen/galeri/galeriScreen.dart.dart';
+import 'package:assets_dialog_bottomsheet_navigation/screen/galeri/detailScreen.dart.dart';
 import 'package:assets_dialog_bottomsheet_navigation/routes/routes.dart';
 import 'package:flutter/material.dart';
 
@@ -24,6 +25,7 @@ class MyApp extends StatelessWidget {
       routes: {
         RoutesNavigation.GaleriScreen: (_) => const GaleriScreen(),
         RoutesNavigation.PhotoScreen : (_) => PhotoScreen(),
+        RoutesNavigation.ContactScreen : (_) => AdvanceForm(),
       },
     );
   }
