@@ -1,0 +1,6 @@
+Template Prompt: You will be provided with a sentence in English, and your task is to translate it into Indonesia.
+
+Input: My name is Jane. What is yours?
+Output: Nama saya Jane. Bagaimana dengan mu?  (Seharusnya)
+
+Link Google Docs: https://docs.google.com/document/d/1FOD1yCZcuJ1qD3qc344diecpnKrxKEzCg6eifGytj74/edit?usp=sharing
